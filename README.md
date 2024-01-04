@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Younes DBAGHI</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=younesdbaghi&label=Profile%20views&color=0e75b6&style=flat" alt="younesdbaghi" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevitjobs.uk%2Fblog%2Ftop-job-boards-for-hiring-software-engineers-in-uk&psig=AOvVaw0_IS3AysHZjTrzYaK3a0Qu&ust=1704482641390000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjk0va6xIMDFQAAAAAdAAAAABAI" alt="younesdbaghi" /> </p>
 
 - 🌱 I’m currently learning **JS MERN STACK**
 

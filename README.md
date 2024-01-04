@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Younes DBAGHI</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
-<p align="left" style="max-width=350px"> <img src="" alt="younesdbaghi" /> </p>
 
 - 🌱 I’m currently learning **JS MERN STACK**
 

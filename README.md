@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Younes DBAGHI</h1>
-<h3 align="center">PHP & MERN stack developer from Morocco</h3>
+<h3 align="center">Data engineer & Fullstack developer **JS Expert**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younesdbaghi&label=Profile%20views&color=0e75b6&style=flat" alt="younesdbaghi" /> </p>
-
-- 🌱 I’m currently learning **Decision engeneering & BIG DATA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/younesdbaghi](https://github.com/younesdbaghi)
 

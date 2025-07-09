@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/younesdbaghi/](https://www.linkedin.com/in/younesdbaghi/)
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
